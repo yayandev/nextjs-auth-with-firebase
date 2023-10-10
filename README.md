@@ -1,0 +1,1 @@
+# nextjs-auth-with-firebase
